@@ -1,12 +1,16 @@
 #app{
   height:90vh;
 }
+#ptag{
+	text-align: center;
+}
 .night{
   background-color: black;
   color:white;
 }
-
 #swap{
+	display: block;
+	margin: auto;
   outline:0;
 }
 
